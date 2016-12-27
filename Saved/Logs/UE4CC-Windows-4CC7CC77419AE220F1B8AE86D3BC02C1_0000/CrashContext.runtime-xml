@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-4CC7CC77419AE220F1B8AE86D3BC02C1_0000</CrashGUID>
+		<ProcessId>4464</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<SecondsSinceStart>588</SecondsSinceStart>
+		<GameName>UE4-Unreal2DRunner3</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Dirty</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.14.1-3224400+++UE4+Release-4.14</EngineVersion>
+		<CommandLine>&quot;D:\Users\matvey\Documents\UnrealProjects\Unreal2DRunner\Unreal2DRunner3.uproject&quot;</CommandLine>
+		<LanguageLCID>1033</LanguageLCID>
+		<AppDefaultLocale>en_US</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.14-CL-3224400</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>matvey</UserName>
+		<BaseDir>D:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>D:/Program Files (x86)/Epic Games/4.14/</RootDir>
+		<MachineId>1E9E03E94A50ACAF57125190647DA6E1</MachineId>
+		<EpicAccountId>cc790baa193747f18fe4962c6ef3d4fa</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<ErrorMessage>Assertion failed: StartIndex &gt;= 0 &amp;&amp; StartIndex &lt;= Array.Num() [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Runtime\Core\Public\Containers\BitArray.h] [Line: 777] &nl;&nl;</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 1070</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>17126531072</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>9607602176</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140692662317056</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1903398912</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>1906204672</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>9199849472</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>9202933760</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636182008751500000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>

@@ -1,0 +1,1058 @@
+﻿Log file open, 12/27/16 12:45:45
+LogInit:Display: Running engine for game: Unreal2DRunner3
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1660142804) SRandInit(-1660142803).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.067143
+LogPluginManager: Loaded Plugin Paper2D, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogPluginManager: Loaded Plugin UnrealEnginePython, From D:/Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Plugins/UnrealEnginePython/UnrealEnginePython.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.12.27-09.45.45:227][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.27-09.45.45:227][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.27-09.45.45:236][  0]LogInit: Computer: DESKTOP-KKUTPK0
+[2016.12.27-09.45.45:236][  0]LogInit: User: matvey
+[2016.12.27-09.45.45:236][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.12.27-09.45.45:236][  0]LogInit: High frequency timer resolution =3.914059 MHz
+[2016.12.27-09.45.45:236][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2016.12.27-09.45.45:236][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.27-09.45.45:236][  0]LogMemory: Process Physical Memory: 264.45 MB used, 264.45 MB peak
+[2016.12.27-09.45.45:236][  0]LogMemory: Process Virtual Memory: 262.81 MB used, 262.81 MB peak
+[2016.12.27-09.45.45:236][  0]LogMemory: Physical Memory: 6681.59 MB used,  9651.54 MB free, 16333.13 MB total
+[2016.12.27-09.45.45:236][  0]LogMemory: Virtual Memory: 675.73 MB used,  9651.54 MB free, 134217728.00 MB total
+[2016.12.27-09.45.45:256][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.12.27-09.45.45:687][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.27-09.45.45:719][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2016.12.27-09.45.45:719][  0]LogD3D11RHI:       8142/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.12.27-09.45.45:720][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.27-09.45.45:720][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.27-09.45.45:720][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.27-09.45.45:723][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.27-09.45.45:723][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.27-09.45.45:723][  0]LogWindows: EnumDisplayDevices:
+[2016.12.27-09.45.45:723][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2016.12.27-09.45.45:723][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2016.12.27-09.45.45:723][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2016.12.27-09.45.45:723][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2016.12.27-09.45.45:723][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.12.27-09.45.45:723][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2016.12.27-09.45.45:723][  0]LogD3D11RHI:   Driver Version: 369.30 (internal:21.21.13.6930, unified:369.30)
+[2016.12.27-09.45.45:723][  0]LogD3D11RHI:      Driver Date: 9-4-2016
+[2016.12.27-09.45.45:723][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.12.27-09.45.45:737][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.27-09.45.45:746][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.12.27-09.45.45:746][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Intermediate/Shaders/WorkingDirectory/2652/).
+[2016.12.27-09.45.45:746][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/matvey/AppData/Local/Temp/UnrealShaderWorkingDir/309123BA419907BBD6DC2C901ABE9369/'.
+[2016.12.27-09.45.45:746][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.27-09.45.48:406][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.27-09.45.48:442][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2016.12.27-09.45.48:480][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2016.12.27-09.45.48:517][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2016.12.27-09.45.48:555][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2016.12.27-09.45.48:593][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.27-09.45.48:630][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.27-09.45.48:667][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.27-09.45.48:697][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.27-09.45.48:734][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.27-09.45.48:772][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.27-09.45.48:809][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.27-09.45.48:845][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.27-09.45.48:882][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.27-09.45.48:918][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.27-09.45.48:990][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.27-09.45.48:990][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.27-09.45.49:015][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.27-09.45.49:076][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.27-09.45.49:100][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.27-09.45.49:138][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.12.27-09.45.49:174][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.27-09.45.49:210][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.27-09.45.49:247][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.27-09.45.49:247][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.27-09.45.49:506][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.27-09.45.49:544][  0]LogDerivedDataCache: Loaded boot cache 0.04s 50MB C:/Users/matvey/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.12.27-09.45.49:544][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/matvey/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2016.12.27-09.45.49:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/matvey/Documents/UnrealProjects/Unreal2DRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.27-09.45.49:544][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.27-09.45.49:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/matvey/Documents/UnrealProjects/Unreal2DRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.27-09.45.49:544][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.27-09.45.49:556][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.27-09.45.49:568][  0]LogDerivedDataCache: Using Local data cache path C:/Users/matvey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.27-09.45.49:704][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.27-09.45.49:706][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.27-09.45.49:844][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2016.12.27-09.45.49:872][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2016.12.27-09.45.49:902][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2016.12.27-09.45.49:902][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2016.12.27-09.45.49:902][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.27-09.45.50:257][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: unreal2drunner3, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3246814908
+[2016.12.27-09.45.50:305][  0]LogAssetRegistry: FAssetRegistry took 0.0220 seconds to start up
+[2016.12.27-09.45.50:319][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../../../../Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Plugins/UnrealEnginePython/Content/. Error: The system cannot find the file specified. (0x00000002)
+[2016.12.27-09.45.50:340][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.021320 seconds
+[2016.12.27-09.45.50:344][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2016.12.27-09.45.50:344][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2016.12.27-09.45.50:344][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.27-09.45.50:384][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.27-09.45.50:854][  0]LogSlate: Using Freetype 2.6.0
+[2016.12.27-09.45.50:855][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.27-09.45.50:855][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.27-09.45.51:386][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.12.27-09.45.51:416][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.27-09.45.51:528][  0]LogPython: Python VM initialized: 3.5.2 |Anaconda custom (64-bit)| (default, Jul  5 2016, 11:41:13) [MSC v.1900 64 bit (AMD64)]
+[2016.12.27-09.45.51:528][  0]LogPython: Python Scripts search path: ../../../../../../Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Content/Scripts
+[2016.12.27-09.45.51:528][  0]LogPython: ue_site Python module successfully imported
+[2016.12.27-09.45.51:722][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.12.27-09.45.51:970][  0]SourceControl: Info Source control is disabled
+[2016.12.27-09.45.51:970][  0]SourceControl: Info Source control is disabled
+[2016.12.27-09.45.52:000][  0]SourceControl: Info Source control is disabled
+[2016.12.27-09.45.52:030][  0]SourceControl: Info Source control is disabled
+[2016.12.27-09.45.52:895][  0]LogEngine: Initializing Engine...
+[2016.12.27-09.45.52:895][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.12.27-09.45.53:062][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.12.27-09.45.53:069][  0]LogInit: XAudio2 using 'Speakers (7.1 SOUND EFFECT GAMING HEADSET)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.27-09.45.53:079][  0]LogInit: FAudioDevice initialized.
+[2016.12.27-09.45.53:098][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB C:/Users/matvey/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.12.27-09.45.53:105][  0]LogInit: Texture streaming: Enabled
+[2016.12.27-09.45.53:224][  0]LogInit: Transaction tracking system initialized
+[2016.12.27-09.45.53:444][  0]BlueprintLog: New page: Editor Load
+[2016.12.27-09.45.54:016][  0]LocalizationService: Info Localization service is disabled
+[2016.12.27-09.45.54:440][  0]LogConsoleResponse:Display: 
+[2016.12.27-09.45.54:536][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.12.27-09.45.54:536][  0]LogCook:Display: Mobile HDR setting 1
+[2016.12.27-09.45.54:858][  0]LogFileCache: Scanning file cache for directory 'D:/Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Content/' took 0.01s
+[2016.12.27-09.45.55:146][  0]SourceControl: Info Source control is disabled
+[2016.12.27-09.45.55:146][  0]Cmd: MAP LOAD FILE="../../../../../../Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Content/Levels/MainGame_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.27-09.45.55:146][  0]LightingResults: New page: Lighting Build
+[2016.12.27-09.45.55:172][  0]MapCheck: New page: Map Check
+[2016.12.27-09.45.55:172][  0]LightingResults: New page: Lighting Build
+[2016.12.27-09.45.55:392][  0]LogAIModule: Creating AISystem for world MainGame_Level
+[2016.12.27-09.45.55:392][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2016.12.27-09.45.55:394][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.27-09.45.55:395][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.27-09.45.55:422][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 27.266ms to complete.
+[2016.12.27-09.45.55:422][  0]LogFileHelpers: Loading map 'MainGame_Level' took 0.277
+[2016.12.27-09.45.55:529][  0]LogCollectionManager: Loaded 0 collections in 0.000837 seconds
+[2016.12.27-09.45.55:590][  0]LogFileCache: Scanning file cache for directory 'D:/Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Saved/Collections/' took 0.01s
+[2016.12.27-09.45.55:590][  0]LogFileCache: Scanning file cache for directory 'D:/Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Content/Developers/matvey/Collections/' took 0.01s
+[2016.12.27-09.45.55:590][  0]LogFileCache: Scanning file cache for directory 'D:/Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Content/Collections/' took 0.01s
+[2016.12.27-09.45.55:590][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2016.12.27-09.45.55:598][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2202 classes and 435 folders.
+[2016.12.27-09.45.55:625][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.27-09.45.55:625][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.12.27-09.45.55:626][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0011 seconds. Added 13 classes and 0 folders.
+[2016.12.27-09.45.55:667][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2016.12.27-09.45.55:696][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2016.12.27-09.45.55:725][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2016.12.27-09.45.55:752][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.27-09.45.55:756][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.12.27-09.45.55:806][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2016.12.27-09.45.55:807][  0]LogLoad: (Engine Initialization) Total time: 11.64 seconds
+[2016.12.27-09.45.55:807][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.10 seconds
+[2016.12.27-09.45.55:807][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.12.27-09.45.55:807][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.12.27-09.45.55:838][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.27-09.45.55:844][  0]LogOcInput: OculusInput pre-init called
+[2016.12.27-09.45.55:856][  0]LogAssetRegistry: Asset discovery search completed in 5.5733 seconds
+[2016.12.27-09.45.55:856][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2016.12.27-09.45.55:856][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2016.12.27-09.45.55:857][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.12.27-09.45.55:974][  0]LogRenderer: Reallocating scene render targets to support 1680x100 NumSamples 1 (Frame:2).
+[2016.12.27-09.46.07:807][383]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.27-09.46.07:816][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel.MainGame_Level' with GeneratedClass '/Game/Levels/MainGame_Level.MainGame_Level_C' with ClassGeneratedBy '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel.MainGame_Level'
+[2016.12.27-09.46.07:817][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.27-09.46.07:817][383]PIE: New page: PIE session: MainGame_Level (Dec 27, 2016, 4:46:07 PM)
+[2016.12.27-09.46.07:817][383]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainGame_Level
+[2016.12.27-09.46.07:820][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002434s)
+[2016.12.27-09.46.07:820][383]LogAIModule: Creating AISystem for world MainGame_Level
+[2016.12.27-09.46.07:820][383]LogPlayLevel: PIE: World Init took: (0.000458s)
+[2016.12.27-09.46.07:820][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainGame_Level.MainGame_Level to /Game/Levels/UEDPIE_0_MainGame_Level.MainGame_Level (0.003191s)
+[2016.12.27-09.46.07:834][383]LogInit: XAudio2 using 'Speakers (7.1 SOUND EFFECT GAMING HEADSET)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.27-09.46.07:839][383]LogInit: FAudioDevice initialized.
+[2016.12.27-09.46.07:890][383]LogLoad: Game class is 'MyGameMode_C'
+[2016.12.27-09.46.07:893][383]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainGame_Level.MainGame_Level up for play (max tick rate 0) at 2016.12.27-12.46.07
+[2016.12.27-09.46.07:893][383]LogWorld: Bringing up level for play took: 0.001925
+[2016.12.27-09.46.07:921][383]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2016.12.27-09.46.07:921][383]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.27-09.46.07:921][383]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.27-09.46.07:921][383]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.27-09.46.08:980][383]LogPython: Python version: 
+[2016.12.27-09.46.08:980][383]LogPython: Python version: 
+[2016.12.27-09.46.08:980][383]LogPython: Begin Play on PythonAIController class
+[2016.12.27-09.46.10:242][383]LogPython: Successfully loaded: D:\saves\saved_networks/dqn-1049999
+[2016.12.27-09.46.10:243][383]LogPython: 
+
+[2016.12.27-09.46.10:244][383]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.27-09.46.10:247][383]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_MainGame_Level 2.517
+[2016.12.27-09.46.10:247][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel.MainGame_Level' with GeneratedClass '/Game/Levels/MainGame_Level.MainGame_Level_C' with ClassGeneratedBy '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel.MainGame_Level'
+[2016.12.27-09.46.10:279][383]LogRenderer: Reallocating scene render targets to support 1680x240 NumSamples 1 (Frame:10).
+[2016.12.27-09.46.12:756][484]LogPython: TIMESTEP 100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.0, 'score': 0.0, 'playtime': 0.0}
+[2016.12.27-09.46.12:756][484]LogPython: 
+
+[2016.12.27-09.46.14:839][584]LogPython: TIMESTEP 200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.0, 'score': 0.0, 'playtime': 0.0}
+[2016.12.27-09.46.14:839][584]LogPython: 
+
+[2016.12.27-09.46.17:225][684]LogPython: TIMESTEP 300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.0, 'score': 0.0, 'playtime': 0.0}
+[2016.12.27-09.46.17:225][684]LogPython: 
+
+[2016.12.27-09.46.20:350][784]LogPython: TIMESTEP 400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.0, 'score': 0.0, 'playtime': 0.0}
+[2016.12.27-09.46.20:350][784]LogPython: 
+
+[2016.12.27-09.46.23:475][884]LogPython: TIMESTEP 500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.01165175131149883, 'score': 1.0, 'playtime': 444.0}
+[2016.12.27-09.46.23:475][884]LogPython: 
+
+[2016.12.27-09.46.26:599][984]LogPython: TIMESTEP 600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.01165175131149883, 'score': 1.0, 'playtime': 444.0}
+[2016.12.27-09.46.26:600][984]LogPython: 
+
+[2016.12.27-09.46.29:725][ 84]LogPython: TIMESTEP 700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.04844383794184532, 'score': 1.0, 'playtime': 345.0}
+[2016.12.27-09.46.29:725][ 84]LogPython: 
+
+[2016.12.27-09.46.32:850][184]LogPython: TIMESTEP 800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.15931159799608016, 'score': 1.0, 'playtime': 262.3333333333333}
+[2016.12.27-09.46.32:850][184]LogPython: 
+
+[2016.12.27-09.46.35:975][284]LogPython: TIMESTEP 900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.15931159799608016, 'score': 1.0, 'playtime': 262.3333333333333}
+[2016.12.27-09.46.35:975][284]LogPython: 
+
+[2016.12.27-09.46.39:099][384]LogPython: TIMESTEP 1000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.4379830485641402, 'score': 1.0, 'playtime': 141.85714285714286}
+[2016.12.27-09.46.39:099][384]LogPython: 
+
+[2016.12.27-09.46.42:225][484]LogPython: TIMESTEP 1100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.4379830485641402, 'score': 1.0, 'playtime': 141.85714285714286}
+[2016.12.27-09.46.42:225][484]LogPython: 
+
+[2016.12.27-09.46.45:355][584]LogPython: TIMESTEP 1200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.46154049134271463, 'score': 1.0, 'playtime': 128.88888888888889}
+[2016.12.27-09.46.45:355][584]LogPython: 
+
+[2016.12.27-09.46.48:480][684]LogPython: TIMESTEP 1300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.4839503462724187, 'score': 1.0, 'playtime': 116.0}
+[2016.12.27-09.46.48:480][684]LogPython: 
+
+[2016.12.27-09.46.51:605][784]LogPython: TIMESTEP 1400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5025892213671825, 'score': 1.0, 'playtime': 107.38461538461539}
+[2016.12.27-09.46.51:605][784]LogPython: 
+
+[2016.12.27-09.46.54:730][884]LogPython: TIMESTEP 1500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5025892213671825, 'score': 1.0, 'playtime': 107.38461538461539}
+[2016.12.27-09.46.54:730][884]LogPython: 
+
+[2016.12.27-09.46.58:582][984]LogPython: TIMESTEP 1600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5080141694606254, 'score': 1.0, 'playtime': 105.73333333333333}
+[2016.12.27-09.46.58:582][984]LogPython: 
+
+[2016.12.27-09.47.01:206][ 84]LogPython: TIMESTEP 1700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5080141694606254, 'score': 1.0, 'playtime': 105.73333333333333}
+[2016.12.27-09.47.01:206][ 84]LogPython: 
+
+[2016.12.27-09.47.04:105][184]LogPython: TIMESTEP 1800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.48639890199502417, 'score': 1.0, 'playtime': 110.5}
+[2016.12.27-09.47.04:105][184]LogPython: 
+
+[2016.12.27-09.47.07:230][284]LogPython: TIMESTEP 1900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.500006644971686, 'score': 1.0, 'playtime': 106.0}
+[2016.12.27-09.47.07:230][284]LogPython: 
+
+[2016.12.27-09.47.10:355][384]LogPython: TIMESTEP 2000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5033840230969766, 'score': 1.0, 'playtime': 103.89473684210526}
+[2016.12.27-09.47.10:355][384]LogPython: 
+
+[2016.12.27-09.47.13:497][484]LogPython: TIMESTEP 2100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5248371497359432, 'score': 1.0, 'playtime': 97.0952380952381}
+[2016.12.27-09.47.13:497][484]LogPython: 
+
+[2016.12.27-09.47.16:605][584]LogPython: TIMESTEP 2200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5250897859979123, 'score': 1.0, 'playtime': 94.8695652173913}
+[2016.12.27-09.47.16:605][584]LogPython: 
+
+[2016.12.27-09.47.19:971][684]LogPython: TIMESTEP 2300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5250897859979123, 'score': 1.0, 'playtime': 94.8695652173913}
+[2016.12.27-09.47.19:971][684]LogPython: 
+
+[2016.12.27-09.47.22:975][788]LogPython: TIMESTEP 2400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5273498872035826, 'score': 1.0, 'playtime': 94.12}
+[2016.12.27-09.47.22:975][788]LogPython: 
+
+[2016.12.27-09.47.26:100][888]LogPython: TIMESTEP 2500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5273498872035826, 'score': 1.0, 'playtime': 94.12}
+[2016.12.27-09.47.26:100][888]LogPython: 
+
+[2016.12.27-09.47.29:225][988]LogPython: TIMESTEP 2600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5273498872035826, 'score': 1.0, 'playtime': 94.12}
+[2016.12.27-09.47.29:225][988]LogPython: 
+
+[2016.12.27-09.47.32:351][ 88]LogPython: TIMESTEP 2700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5288919595395404, 'score': 1.0, 'playtime': 95.46428571428571}
+[2016.12.27-09.47.32:351][ 88]LogPython: 
+
+[2016.12.27-09.47.35:475][188]LogPython: TIMESTEP 2800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5349111228312655, 'score': 1.0, 'playtime': 93.41379310344827}
+[2016.12.27-09.47.35:475][188]LogPython: 
+
+[2016.12.27-09.47.38:600][288]LogPython: TIMESTEP 2900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5300402160060309, 'score': 1.0, 'playtime': 93.46666666666667}
+[2016.12.27-09.47.38:600][288]LogPython: 
+
+[2016.12.27-09.47.41:725][388]LogPython: TIMESTEP 3000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5300120376156167, 'score': 1.0, 'playtime': 91.9375}
+[2016.12.27-09.47.41:725][388]LogPython: 
+
+[2016.12.27-09.47.44:850][488]LogPython: TIMESTEP 3100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5300120376156167, 'score': 1.0, 'playtime': 91.9375}
+[2016.12.27-09.47.44:850][488]LogPython: 
+
+[2016.12.27-09.47.47:975][588]LogPython: TIMESTEP 3200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5300120376156167, 'score': 1.0, 'playtime': 91.9375}
+[2016.12.27-09.47.47:975][588]LogPython: 
+
+[2016.12.27-09.47.51:100][688]LogPython: TIMESTEP 3300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5300120376156167, 'score': 1.0, 'playtime': 91.9375}
+[2016.12.27-09.47.51:100][688]LogPython: 
+
+[2016.12.27-09.47.54:225][788]LogPython: TIMESTEP 3400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5300120376156167, 'score': 1.0, 'playtime': 91.9375}
+[2016.12.27-09.47.54:225][788]LogPython: 
+
+[2016.12.27-09.47.57:350][888]LogPython: TIMESTEP 3500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5140691296872889, 'score': 1.0, 'playtime': 105.9090909090909}
+[2016.12.27-09.47.57:350][888]LogPython: 
+
+[2016.12.27-09.48.00:475][988]LogPython: TIMESTEP 3600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5140691296872889, 'score': 1.0, 'playtime': 105.9090909090909}
+[2016.12.27-09.48.00:475][988]LogPython: 
+
+[2016.12.27-09.48.03:600][ 88]LogPython: TIMESTEP 3700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5140691296872889, 'score': 1.0, 'playtime': 105.9090909090909}
+[2016.12.27-09.48.03:600][ 88]LogPython: 
+
+[2016.12.27-09.48.06:725][188]LogPython: TIMESTEP 3800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5194706841936002, 'score': 1.0, 'playtime': 104.63888888888889}
+[2016.12.27-09.48.06:726][188]LogPython: 
+
+[2016.12.27-09.48.09:850][288]LogPython: TIMESTEP 3900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5194706841936002, 'score': 1.0, 'playtime': 104.63888888888889}
+[2016.12.27-09.48.09:851][288]LogPython: 
+
+[2016.12.27-09.48.12:975][388]LogPython: TIMESTEP 4000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5194706841936002, 'score': 1.0, 'playtime': 104.63888888888889}
+[2016.12.27-09.48.12:975][388]LogPython: 
+
+[2016.12.27-09.48.16:100][488]LogPython: TIMESTEP 4100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5179198720749489, 'score': 1.0, 'playtime': 107.86842105263158}
+[2016.12.27-09.48.16:100][488]LogPython: 
+
+[2016.12.27-09.48.19:225][588]LogPython: TIMESTEP 4200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5342607281105448, 'score': 1.0, 'playtime': 102.26829268292683}
+[2016.12.27-09.48.19:226][588]LogPython: 
+
+[2016.12.27-09.48.22:350][688]LogPython: TIMESTEP 4300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5416103106170539, 'score': 1.0, 'playtime': 100.26190476190476}
+[2016.12.27-09.48.22:351][688]LogPython: 
+
+[2016.12.27-09.48.25:475][788]LogPython: TIMESTEP 4400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5416103106170539, 'score': 1.0, 'playtime': 100.26190476190476}
+[2016.12.27-09.48.25:475][788]LogPython: 
+
+[2016.12.27-09.48.28:600][888]LogPython: TIMESTEP 4500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5382038205923602, 'score': 1.0, 'playtime': 101.77272727272727}
+[2016.12.27-09.48.28:600][888]LogPython: 
+
+[2016.12.27-09.48.31:725][988]LogPython: TIMESTEP 4600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5382038205923602, 'score': 1.0, 'playtime': 101.77272727272727}
+[2016.12.27-09.48.31:726][988]LogPython: 
+
+[2016.12.27-09.48.34:851][ 88]LogPython: TIMESTEP 4700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5306057693352638, 'score': 1.0, 'playtime': 103.13333333333334}
+[2016.12.27-09.48.34:851][ 88]LogPython: 
+
+[2016.12.27-09.48.37:975][188]LogPython: TIMESTEP 4800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5306057693352638, 'score': 1.0, 'playtime': 103.13333333333334}
+[2016.12.27-09.48.37:976][188]LogPython: 
+
+[2016.12.27-09.48.41:100][288]LogPython: TIMESTEP 4900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5276972813711698, 'score': 1.0, 'playtime': 103.2127659574468}
+[2016.12.27-09.48.41:100][288]LogPython: 
+
+[2016.12.27-09.48.44:225][388]LogPython: TIMESTEP 5000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5276972813711698, 'score': 1.0, 'playtime': 103.2127659574468}
+[2016.12.27-09.48.44:226][388]LogPython: 
+
+[2016.12.27-09.48.47:351][488]LogPython: TIMESTEP 5100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5280903298428248, 'score': 1.0, 'playtime': 102.75510204081633}
+[2016.12.27-09.48.47:351][488]LogPython: 
+
+[2016.12.27-09.48.50:476][588]LogPython: TIMESTEP 5200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5280903298428248, 'score': 1.0, 'playtime': 102.75510204081633}
+[2016.12.27-09.48.50:476][588]LogPython: 
+
+[2016.12.27-09.48.53:601][688]LogPython: TIMESTEP 5300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5248785542737765, 'score': 1.0, 'playtime': 103.01960784313725}
+[2016.12.27-09.48.53:601][688]LogPython: 
+
+[2016.12.27-09.48.56:726][788]LogPython: TIMESTEP 5400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5248785542737765, 'score': 1.0, 'playtime': 103.01960784313725}
+[2016.12.27-09.48.56:726][788]LogPython: 
+
+[2016.12.27-09.48.59:850][888]LogPython: TIMESTEP 5500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5248785542737765, 'score': 1.0, 'playtime': 103.01960784313725}
+[2016.12.27-09.48.59:851][888]LogPython: 
+
+[2016.12.27-09.49.02:976][988]LogPython: TIMESTEP 5600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5221730013558982, 'score': 1.0, 'playtime': 104.45283018867924}
+[2016.12.27-09.49.02:976][988]LogPython: 
+
+[2016.12.27-09.49.06:101][ 88]LogPython: TIMESTEP 5700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5256889247806599, 'score': 1.0, 'playtime': 102.56363636363636}
+[2016.12.27-09.49.06:101][ 88]LogPython: 
+
+[2016.12.27-09.49.09:226][188]LogPython: TIMESTEP 5800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5256889247806599, 'score': 1.0, 'playtime': 102.56363636363636}
+[2016.12.27-09.49.09:226][188]LogPython: 
+
+[2016.12.27-09.49.12:351][288]LogPython: TIMESTEP 5900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5176643901221945, 'score': 1.0, 'playtime': 105.32142857142857}
+[2016.12.27-09.49.12:351][288]LogPython: 
+
+[2016.12.27-09.49.15:476][388]LogPython: TIMESTEP 6000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.520085352059948, 'score': 1.0, 'playtime': 104.2280701754386}
+[2016.12.27-09.49.15:476][388]LogPython: 
+
+[2016.12.27-09.49.18:601][488]LogPython: TIMESTEP 6100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.520085352059948, 'score': 1.0, 'playtime': 104.2280701754386}
+[2016.12.27-09.49.18:601][488]LogPython: 
+
+[2016.12.27-09.49.21:726][588]LogPython: TIMESTEP 6200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5208587251091658, 'score': 1.0, 'playtime': 103.71186440677967}
+[2016.12.27-09.49.21:726][588]LogPython: 
+
+[2016.12.27-09.49.24:850][688]LogPython: TIMESTEP 6300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5208587251091658, 'score': 1.0, 'playtime': 103.71186440677967}
+[2016.12.27-09.49.24:851][688]LogPython: 
+
+[2016.12.27-09.49.27:976][788]LogPython: TIMESTEP 6400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5195140577409967, 'score': 1.0, 'playtime': 104.80327868852459}
+[2016.12.27-09.49.27:976][788]LogPython: 
+
+[2016.12.27-09.49.31:101][888]LogPython: TIMESTEP 6500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5195140577409967, 'score': 1.0, 'playtime': 104.80327868852459}
+[2016.12.27-09.49.31:101][888]LogPython: 
+
+[2016.12.27-09.49.34:226][988]LogPython: TIMESTEP 6600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5195140577409967, 'score': 1.0, 'playtime': 104.80327868852459}
+[2016.12.27-09.49.34:226][988]LogPython: 
+
+[2016.12.27-09.49.37:351][ 88]LogPython: TIMESTEP 6700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5195140577409967, 'score': 1.0, 'playtime': 104.80327868852459}
+[2016.12.27-09.49.37:351][ 88]LogPython: 
+
+[2016.12.27-09.49.40:476][188]LogPython: TIMESTEP 6800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5195140577409967, 'score': 1.0, 'playtime': 104.80327868852459}
+[2016.12.27-09.49.40:476][188]LogPython: 
+
+[2016.12.27-09.49.43:601][288]LogPython: TIMESTEP 6900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5155047429845171, 'score': 1.0, 'playtime': 108.41269841269842}
+[2016.12.27-09.49.43:601][288]LogPython: 
+
+[2016.12.27-09.49.46:726][388]LogPython: TIMESTEP 7000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5155047429845171, 'score': 1.0, 'playtime': 108.41269841269842}
+[2016.12.27-09.49.46:726][388]LogPython: 
+
+[2016.12.27-09.49.49:851][488]LogPython: TIMESTEP 7100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5086666139879139, 'score': 1.0, 'playtime': 110.703125}
+[2016.12.27-09.49.49:851][488]LogPython: 
+
+[2016.12.27-09.49.52:976][588]LogPython: TIMESTEP 7200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5212286152439005, 'score': 1.0, 'playtime': 106.86567164179104}
+[2016.12.27-09.49.52:976][588]LogPython: 
+
+[2016.12.27-09.49.56:101][688]LogPython: TIMESTEP 7300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5212286152439005, 'score': 1.0, 'playtime': 106.86567164179104}
+[2016.12.27-09.49.56:101][688]LogPython: 
+
+[2016.12.27-09.49.59:226][788]LogPython: TIMESTEP 7400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5205831786217885, 'score': 1.0, 'playtime': 106.46376811594203}
+[2016.12.27-09.49.59:226][788]LogPython: 
+
+[2016.12.27-09.50.02:351][888]LogPython: TIMESTEP 7500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5205831786217885, 'score': 1.0, 'playtime': 106.46376811594203}
+[2016.12.27-09.50.02:351][888]LogPython: 
+
+[2016.12.27-09.50.05:476][988]LogPython: TIMESTEP 7600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5205831786217885, 'score': 1.0, 'playtime': 106.46376811594203}
+[2016.12.27-09.50.05:476][988]LogPython: 
+
+[2016.12.27-09.50.08:602][ 88]LogPython: TIMESTEP 7700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5172267336227754, 'score': 1.0, 'playtime': 108.36619718309859}
+[2016.12.27-09.50.08:602][ 88]LogPython: 
+
+[2016.12.27-09.50.11:726][188]LogPython: TIMESTEP 7800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5172267336227754, 'score': 1.0, 'playtime': 108.36619718309859}
+[2016.12.27-09.50.11:726][188]LogPython: 
+
+[2016.12.27-09.50.14:851][288]LogPython: TIMESTEP 7900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5172267336227754, 'score': 1.0, 'playtime': 108.36619718309859}
+[2016.12.27-09.50.14:851][288]LogPython: 
+
+[2016.12.27-09.50.17:977][388]LogPython: TIMESTEP 8000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5172267336227754, 'score': 1.0, 'playtime': 108.36619718309859}
+[2016.12.27-09.50.17:977][388]LogPython: 
+
+[2016.12.27-09.50.21:101][488]LogPython: TIMESTEP 8100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5172267336227754, 'score': 1.0, 'playtime': 108.36619718309859}
+[2016.12.27-09.50.21:101][488]LogPython: 
+
+[2016.12.27-09.50.24:226][588]LogPython: TIMESTEP 8200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5153108206543944, 'score': 1.0, 'playtime': 111.15068493150685}
+[2016.12.27-09.50.24:227][588]LogPython: 
+
+[2016.12.27-09.50.27:351][688]LogPython: TIMESTEP 8300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5166090806440581, 'score': 1.0, 'playtime': 109.97333333333333}
+[2016.12.27-09.50.27:351][688]LogPython: 
+
+[2016.12.27-09.50.30:476][788]LogPython: TIMESTEP 8400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5144847613553872, 'score': 1.0, 'playtime': 109.89473684210526}
+[2016.12.27-09.50.30:476][788]LogPython: 
+
+[2016.12.27-09.50.33:601][888]LogPython: TIMESTEP 8500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5132750140930415, 'score': 1.0, 'playtime': 109.59740259740259}
+[2016.12.27-09.50.33:601][888]LogPython: 
+
+[2016.12.27-09.50.36:726][988]LogPython: TIMESTEP 8600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5132750140930415, 'score': 1.0, 'playtime': 109.59740259740259}
+[2016.12.27-09.50.36:727][988]LogPython: 
+
+[2016.12.27-09.50.39:851][ 88]LogPython: TIMESTEP 8700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5132750140930415, 'score': 1.0, 'playtime': 109.59740259740259}
+[2016.12.27-09.50.39:851][ 88]LogPython: 
+
+[2016.12.27-09.50.42:976][188]LogPython: TIMESTEP 8800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5132750140930415, 'score': 1.0, 'playtime': 109.59740259740259}
+[2016.12.27-09.50.42:977][188]LogPython: 
+
+[2016.12.27-09.50.46:101][288]LogPython: TIMESTEP 8900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5069006141307237, 'score': 1.0, 'playtime': 113.47435897435898}
+[2016.12.27-09.50.46:101][288]LogPython: 
+
+[2016.12.27-09.50.49:226][388]LogPython: TIMESTEP 9000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5047167691023591, 'score': 1.0, 'playtime': 113.43037974683544}
+[2016.12.27-09.50.49:227][388]LogPython: 
+
+[2016.12.27-09.50.52:351][488]LogPython: TIMESTEP 9100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5047167691023591, 'score': 1.0, 'playtime': 113.43037974683544}
+[2016.12.27-09.50.52:351][488]LogPython: 
+
+[2016.12.27-09.50.55:476][588]LogPython: TIMESTEP 9200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5082467381823115, 'score': 1.0, 'playtime': 111.92682926829268}
+[2016.12.27-09.50.55:477][588]LogPython: 
+
+[2016.12.27-09.50.58:601][688]LogPython: TIMESTEP 9300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5116849013806409, 'score': 1.0, 'playtime': 110.86746987951807}
+[2016.12.27-09.50.58:601][688]LogPython: 
+
+[2016.12.27-09.51.01:726][788]LogPython: TIMESTEP 9400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5116849013806409, 'score': 1.0, 'playtime': 110.86746987951807}
+[2016.12.27-09.51.01:726][788]LogPython: 
+
+[2016.12.27-09.51.04:851][888]LogPython: TIMESTEP 9500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5116849013806409, 'score': 1.0, 'playtime': 110.86746987951807}
+[2016.12.27-09.51.04:851][888]LogPython: 
+
+[2016.12.27-09.51.07:979][988]LogPython: TIMESTEP 9600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.510351138129522, 'score': 1.0, 'playtime': 112.44705882352942}
+[2016.12.27-09.51.07:979][988]LogPython: 
+
+[2016.12.27-09.51.11:102][ 88]LogPython: TIMESTEP 9700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.510351138129522, 'score': 1.0, 'playtime': 112.44705882352942}
+[2016.12.27-09.51.11:102][ 88]LogPython: 
+
+[2016.12.27-09.51.14:226][188]LogPython: TIMESTEP 9800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5088428313002651, 'score': 1.0, 'playtime': 112.44827586206897}
+[2016.12.27-09.51.14:226][188]LogPython: 
+
+[2016.12.27-09.51.17:351][288]LogPython: TIMESTEP 9900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5169194301430922, 'score': 1.0, 'playtime': 109.68888888888888}
+[2016.12.27-09.51.17:351][288]LogPython: 
+
+[2016.12.27-09.51.20:938][388]LogPython: TIMESTEP 10000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0}, MATCH_STATS {'reward': 0.5191261455546875, 'score': 1.0, 'playtime': 108.85714285714286}
+[2016.12.27-09.51.20:939][388]LogPython: 
+
+[2016.12.27-09.51.24:974][488]LogPython: TIMESTEP 10100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0017126466249318022}, MATCH_STATS {'reward': 0.5191261455546875, 'score': 1.0, 'playtime': 108.85714285714286}
+[2016.12.27-09.51.24:974][488]LogPython: 
+
+[2016.12.27-09.51.28:800][588]LogPython: TIMESTEP 10200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0015730525208426517}, MATCH_STATS {'reward': 0.5191261455546875, 'score': 1.0, 'playtime': 108.85714285714286}
+[2016.12.27-09.51.28:800][588]LogPython: 
+
+[2016.12.27-09.51.32:635][688]LogPython: TIMESTEP 10300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0015136160903157087}, MATCH_STATS {'reward': 0.5138059704774733, 'score': 1.0, 'playtime': 111.48913043478261}
+[2016.12.27-09.51.32:635][688]LogPython: 
+
+[2016.12.27-09.51.36:461][788]LogPython: TIMESTEP 10400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0015157425968253047}, MATCH_STATS {'reward': 0.5138059704774733, 'score': 1.0, 'playtime': 111.48913043478261}
+[2016.12.27-09.51.36:461][788]LogPython: 
+
+[2016.12.27-09.51.40:283][888]LogPython: TIMESTEP 10500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0014668892676972846}, MATCH_STATS {'reward': 0.5161955601362631, 'score': 1.0, 'playtime': 110.36842105263158}
+[2016.12.27-09.51.40:283][888]LogPython: 
+
+[2016.12.27-09.51.44:108][988]LogPython: TIMESTEP 10600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0014417912913171516}, MATCH_STATS {'reward': 0.5193837251654593, 'score': 1.0, 'playtime': 109.14432989690722}
+[2016.12.27-09.51.44:108][988]LogPython: 
+
+[2016.12.27-09.51.47:934][ 88]LogPython: TIMESTEP 10700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0014223595798010264}, MATCH_STATS {'reward': 0.5245173234155865, 'score': 1.0, 'playtime': 107.5050505050505}
+[2016.12.27-09.51.47:935][ 88]LogPython: 
+
+[2016.12.27-09.51.51:765][188]LogPython: TIMESTEP 10800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0014213459913077436}, MATCH_STATS {'reward': 0.5266949914045764, 'score': 1.0, 'playtime': 106.57425742574257}
+[2016.12.27-09.51.51:766][188]LogPython: 
+
+[2016.12.27-09.51.55:598][288]LogPython: TIMESTEP 10900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0013997917406629249}, MATCH_STATS {'reward': 0.5266949914045764, 'score': 1.0, 'playtime': 106.57425742574257}
+[2016.12.27-09.51.55:598][288]LogPython: 
+
+[2016.12.27-09.51.59:419][388]LogPython: TIMESTEP 11000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0013845399339739055}, MATCH_STATS {'reward': 0.5255176188726065, 'score': 1.0, 'playtime': 106.75728155339806}
+[2016.12.27-09.51.59:419][388]LogPython: 
+
+[2016.12.27-09.52.03:245][488]LogPython: TIMESTEP 11100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0013610502001533905}, MATCH_STATS {'reward': 0.5255176188726065, 'score': 1.0, 'playtime': 106.75728155339806}
+[2016.12.27-09.52.03:245][488]LogPython: 
+
+[2016.12.27-09.52.07:074][588]LogPython: TIMESTEP 11200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0013647771321045423}, MATCH_STATS {'reward': 0.5220716219124361, 'score': 1.0, 'playtime': 107.45192307692308}
+[2016.12.27-09.52.07:074][588]LogPython: 
+
+[2016.12.27-09.52.10:921][688]LogPython: TIMESTEP 11300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0013556893886775144}, MATCH_STATS {'reward': 0.526677684330619, 'score': 1.0, 'playtime': 105.94339622641509}
+[2016.12.27-09.52.10:921][688]LogPython: 
+
+[2016.12.27-09.52.14:753][788]LogPython: TIMESTEP 11400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0013431483986135939}, MATCH_STATS {'reward': 0.5287943946342106, 'score': 1.0, 'playtime': 105.10185185185185}
+[2016.12.27-09.52.14:753][788]LogPython: 
+
+[2016.12.27-09.52.18:576][888]LogPython: TIMESTEP 11500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0013405042641543459}, MATCH_STATS {'reward': 0.5263776226627749, 'score': 1.0, 'playtime': 105.35779816513761}
+[2016.12.27-09.52.18:576][888]LogPython: 
+
+[2016.12.27-09.52.22:422][988]LogPython: TIMESTEP 11600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0013289297317058456}, MATCH_STATS {'reward': 0.5245716693425478, 'score': 1.0, 'playtime': 105.41818181818182}
+[2016.12.27-09.52.22:423][988]LogPython: 
+
+[2016.12.27-09.52.26:288][ 88]LogPython: TIMESTEP 11700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0013183272809727971}, MATCH_STATS {'reward': 0.5259334475382031, 'score': 1.0, 'playtime': 104.82882882882883}
+[2016.12.27-09.52.26:289][ 88]LogPython: 
+
+[2016.12.27-09.52.30:117][188]LogPython: TIMESTEP 11800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0013194941806323125}, MATCH_STATS {'reward': 0.5259334475382031, 'score': 1.0, 'playtime': 104.82882882882883}
+[2016.12.27-09.52.30:117][188]LogPython: 
+
+[2016.12.27-09.52.33:936][288]LogPython: TIMESTEP 11900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0013031025140655015}, MATCH_STATS {'reward': 0.5259334475382031, 'score': 1.0, 'playtime': 104.82882882882883}
+[2016.12.27-09.52.33:936][288]LogPython: 
+
+[2016.12.27-09.52.37:771][388]LogPython: TIMESTEP 12000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.001300191417910504}, MATCH_STATS {'reward': 0.5259334475382031, 'score': 1.0, 'playtime': 104.82882882882883}
+[2016.12.27-09.52.37:771][388]LogPython: 
+
+[2016.12.27-09.52.41:596][488]LogPython: TIMESTEP 12100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012941704520356356}, MATCH_STATS {'reward': 0.5259334475382031, 'score': 1.0, 'playtime': 104.82882882882883}
+[2016.12.27-09.52.41:596][488]LogPython: 
+
+[2016.12.27-09.52.45:424][588]LogPython: TIMESTEP 12200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012812782773621936}, MATCH_STATS {'reward': 0.5259334475382031, 'score': 1.0, 'playtime': 104.82882882882883}
+[2016.12.27-09.52.45:424][588]LogPython: 
+
+[2016.12.27-09.52.49:251][688]LogPython: TIMESTEP 12300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012698678804500022}, MATCH_STATS {'reward': 0.5259334475382031, 'score': 1.0, 'playtime': 104.82882882882883}
+[2016.12.27-09.52.49:251][688]LogPython: 
+
+[2016.12.27-09.52.53:080][788]LogPython: TIMESTEP 12400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012686613481795095}, MATCH_STATS {'reward': 0.5259334475382031, 'score': 1.0, 'playtime': 104.82882882882883}
+[2016.12.27-09.52.53:080][788]LogPython: 
+
+[2016.12.27-09.52.56:906][888]LogPython: TIMESTEP 12500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012619082986317272}, MATCH_STATS {'reward': 0.5259334475382031, 'score': 1.0, 'playtime': 104.82882882882883}
+[2016.12.27-09.52.56:906][888]LogPython: 
+
+[2016.12.27-09.53.00:740][988]LogPython: TIMESTEP 12600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012589079244086044}, MATCH_STATS {'reward': 0.5259334475382031, 'score': 1.0, 'playtime': 104.82882882882883}
+[2016.12.27-09.53.00:740][988]LogPython: 
+
+[2016.12.27-09.53.04:569][ 88]LogPython: TIMESTEP 12700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.001255717126590444}, MATCH_STATS {'reward': 0.5259334475382031, 'score': 1.0, 'playtime': 104.82882882882883}
+[2016.12.27-09.53.04:569][ 88]LogPython: 
+
+[2016.12.27-09.53.08:404][188]LogPython: TIMESTEP 12800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.001251908298302134}, MATCH_STATS {'reward': 0.5212377321159841, 'score': 1.0, 'playtime': 113.875}
+[2016.12.27-09.53.08:404][188]LogPython: 
+
+[2016.12.27-09.53.12:230][288]LogPython: TIMESTEP 12900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012438560781664549}, MATCH_STATS {'reward': 0.5212377321159841, 'score': 1.0, 'playtime': 113.875}
+[2016.12.27-09.53.12:231][288]LogPython: 
+
+[2016.12.27-09.53.16:076][388]LogPython: TIMESTEP 13000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012396616050431635}, MATCH_STATS {'reward': 0.5212377321159841, 'score': 1.0, 'playtime': 113.875}
+[2016.12.27-09.53.16:076][388]LogPython: 
+
+[2016.12.27-09.53.19:941][488]LogPython: TIMESTEP 13100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012348763423134272}, MATCH_STATS {'reward': 0.5212377321159841, 'score': 1.0, 'playtime': 113.875}
+[2016.12.27-09.53.19:941][488]LogPython: 
+
+[2016.12.27-09.53.23:792][588]LogPython: TIMESTEP 13200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012331223560934732}, MATCH_STATS {'reward': 0.5212377321159841, 'score': 1.0, 'playtime': 113.875}
+[2016.12.27-09.53.23:792][588]LogPython: 
+
+[2016.12.27-09.53.27:633][688]LogPython: TIMESTEP 13300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012281319717006058}, MATCH_STATS {'reward': 0.5212377321159841, 'score': 1.0, 'playtime': 113.875}
+[2016.12.27-09.53.27:633][688]LogPython: 
+
+[2016.12.27-09.53.31:476][788]LogPython: TIMESTEP 13400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012220879796586278}, MATCH_STATS {'reward': 0.5199720821124396, 'score': 1.0, 'playtime': 117.10526315789474}
+[2016.12.27-09.53.31:476][788]LogPython: 
+
+[2016.12.27-09.53.35:324][888]LogPython: TIMESTEP 13500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012159463650020686}, MATCH_STATS {'reward': 0.5199720821124396, 'score': 1.0, 'playtime': 117.10526315789474}
+[2016.12.27-09.53.35:325][888]LogPython: 
+
+[2016.12.27-09.53.39:148][988]LogPython: TIMESTEP 13600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.001212413882921674}, MATCH_STATS {'reward': 0.5199720821124396, 'score': 1.0, 'playtime': 117.10526315789474}
+[2016.12.27-09.53.39:148][988]LogPython: 
+
+[2016.12.27-09.53.42:982][ 88]LogPython: TIMESTEP 13700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012082480970294828}, MATCH_STATS {'reward': 0.5199720821124396, 'score': 1.0, 'playtime': 117.10526315789474}
+[2016.12.27-09.53.42:982][ 88]LogPython: 
+
+[2016.12.27-09.53.46:817][188]LogPython: TIMESTEP 13800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012078032733741806}, MATCH_STATS {'reward': 0.5199720821124396, 'score': 1.0, 'playtime': 117.10526315789474}
+[2016.12.27-09.53.46:817][188]LogPython: 
+
+[2016.12.27-09.53.50:647][288]LogPython: TIMESTEP 13900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012064068681827324}, MATCH_STATS {'reward': 0.5199720821124396, 'score': 1.0, 'playtime': 117.10526315789474}
+[2016.12.27-09.53.50:647][288]LogPython: 
+
+[2016.12.27-09.53.54:485][388]LogPython: TIMESTEP 14000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0012029800940129803}, MATCH_STATS {'reward': 0.5199720821124396, 'score': 1.0, 'playtime': 117.10526315789474}
+[2016.12.27-09.53.54:485][388]LogPython: 
+
+[2016.12.27-09.53.58:311][488]LogPython: TIMESTEP 14100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011989357345819881}, MATCH_STATS {'reward': 0.5199720821124396, 'score': 1.0, 'playtime': 117.10526315789474}
+[2016.12.27-09.53.58:311][488]LogPython: 
+
+[2016.12.27-09.54.02:129][588]LogPython: TIMESTEP 14200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011953616473187453}, MATCH_STATS {'reward': 0.5199720821124396, 'score': 1.0, 'playtime': 117.10526315789474}
+[2016.12.27-09.54.02:130][588]LogPython: 
+
+[2016.12.27-09.54.05:955][688]LogPython: TIMESTEP 14300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011904049780514744}, MATCH_STATS {'reward': 0.5199720821124396, 'score': 1.0, 'playtime': 117.10526315789474}
+[2016.12.27-09.54.05:955][688]LogPython: 
+
+[2016.12.27-09.54.09:781][788]LogPython: TIMESTEP 14400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011856709581076913}, MATCH_STATS {'reward': 0.5199720821124396, 'score': 1.0, 'playtime': 117.10526315789474}
+[2016.12.27-09.54.09:781][788]LogPython: 
+
+[2016.12.27-09.54.13:619][888]LogPython: TIMESTEP 14500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011820466554479205}, MATCH_STATS {'reward': 0.5231318010335803, 'score': 1.0, 'playtime': 122.83050847457628}
+[2016.12.27-09.54.13:619][888]LogPython: 
+
+[2016.12.27-09.54.17:448][988]LogPython: TIMESTEP 14600, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011794290187264198}, MATCH_STATS {'reward': 0.5292248580912956, 'score': 1.0, 'playtime': 120.49586776859505}
+[2016.12.27-09.54.17:448][988]LogPython: 
+
+[2016.12.27-09.54.21:283][ 88]LogPython: TIMESTEP 14700, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011755434407155535}, MATCH_STATS {'reward': 0.5303703244886595, 'score': 1.0, 'playtime': 119.84426229508196}
+[2016.12.27-09.54.21:283][ 88]LogPython: 
+
+[2016.12.27-09.54.25:118][188]LogPython: TIMESTEP 14800, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011713152012444651}, MATCH_STATS {'reward': 0.5274447725081792, 'score': 1.0, 'playtime': 120.3089430894309}
+[2016.12.27-09.54.25:118][188]LogPython: 
+
+[2016.12.27-09.54.28:948][288]LogPython: TIMESTEP 14900, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011679320309159924}, MATCH_STATS {'reward': 0.5304116554255223, 'score': 1.0, 'playtime': 119.43548387096774}
+[2016.12.27-09.54.28:948][288]LogPython: 
+
+[2016.12.27-09.54.32:776][388]LogPython: TIMESTEP 15000, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011646406671708492}, MATCH_STATS {'reward': 0.5322424233915044, 'score': 1.0, 'playtime': 118.47619047619048}
+[2016.12.27-09.54.32:776][388]LogPython: 
+
+[2016.12.27-09.54.36:609][488]LogPython: TIMESTEP 15100, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011614439488222572}, MATCH_STATS {'reward': 0.5322424233915044, 'score': 1.0, 'playtime': 118.47619047619048}
+[2016.12.27-09.54.36:609][488]LogPython: 
+
+[2016.12.27-09.54.40:460][588]LogPython: TIMESTEP 15200, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011581099901839989}, MATCH_STATS {'reward': 0.5325704795949281, 'score': 1.0, 'playtime': 117.72093023255815}
+[2016.12.27-09.54.40:460][588]LogPython: 
+
+[2016.12.27-09.54.44:294][688]LogPython: TIMESTEP 15300, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011565872127980513}, MATCH_STATS {'reward': 0.535831101763186, 'score': 1.0, 'playtime': 116.38931297709924}
+[2016.12.27-09.54.44:294][688]LogPython: 
+
+[2016.12.27-09.54.48:142][788]LogPython: TIMESTEP 15400, EPSILON 0.0001, EPISODE_STATS {'loss': 0.0011539627575873743}, MATCH_STATS {'reward': 0.535831101763186, 'score': 1.0, 'playtime': 116.38931297709924}
+[2016.12.27-09.54.48:142][788]LogPython: 
+
+[2016.12.27-09.54.51:999][888]LogPython: TIMESTEP 15500, EPSILON 0.0001, EPISODE_STATS {'loss': 0.001154838211759361}, MATCH_STATS {'reward': 0.535831101763186, 'score': 1.0, 'playtime': 116.38931297709924}
+[2016.12.27-09.54.51:999][888]LogPython: 
+
+[2016.12.27-09.54.55:803][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel.MainGame_Level' with GeneratedClass '/Game/Levels/MainGame_Level.MainGame_Level_C' with ClassGeneratedBy '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel.MainGame_Level'
+[2016.12.27-09.54.55:833][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel.MainGame_Level' with GeneratedClass '/Game/Levels/MainGame_Level.MainGame_Level_C' with ClassGeneratedBy '/Game/Levels/MainGame_Level.MainGame_Level:PersistentLevel.MainGame_Level'
+[2016.12.27-09.54.56:781][218]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.27-09.54.56:931][219]Cmd: QUIT_EDITOR
+[2016.12.27-09.54.57:256][219]LogExit: Preparing to exit.
+[2016.12.27-09.54.57:703][219]LogDirectoryWatcher: A directory notification for 'D:/Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Content/' was aborted.
+[2016.12.27-09.54.57:714][219]LogExit: Editor shut down
+[2016.12.27-09.54.57:714][219]LogExit: Transaction tracking system shut down
+[2016.12.27-09.54.57:753][219]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.27-09.54.57:753][219]LogExit: Object subsystem successfully closed.
+[2016.12.27-09.54.57:771][219]LogD3D11RHI: Shutdown
+[2016.12.27-09.54.57:771][219]LogD3D11RHI: CleanupD3DDevice
+[2016.12.27-09.54.57:807][219]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.27-09.54.57:817][219]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.12.27-09.54.57:817][219]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B703F8AAA-4765-A6CA-D59A-B3ABF0A40CAA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=1e9e03e94a50acaf57125190647da6e1%7Ccc790baa193747f18fe4962c6ef3d4fa%7C0b751c36-2923-4743-921a-fdf388d72f2c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.12.27-09.54.57:831][219]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (245)
+[2016.12.27-09.54.57:831][219]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (244)
+[2016.12.27-09.54.57:831][219]LogModuleManager: Shutting down and abandoning module CrashTracker (243)
+[2016.12.27-09.54.57:831][219]LogModuleManager: Shutting down and abandoning module SceneOutliner (242)
+[2016.12.27-09.54.57:831][219]LogModuleManager: Shutting down and abandoning module WidgetCarousel (241)
+[2016.12.27-09.54.57:831][219]LogModuleManager: Shutting down and abandoning module AddContentDialog (240)
+[2016.12.27-09.54.57:831][219]LogDirectoryWatcher: A directory notification for 'D:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module GameplayTags (239)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module EditorWidgets (238)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module CollectionManager (237)
+[2016.12.27-09.54.57:833][219]LogDirectoryWatcher: A directory notification for 'D:/Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Content/Collections/' was aborted.
+[2016.12.27-09.54.57:833][219]LogDirectoryWatcher: A directory notification for 'D:/Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Content/Developers/matvey/Collections/' was aborted.
+[2016.12.27-09.54.57:833][219]LogDirectoryWatcher: A directory notification for 'D:/Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Saved/Collections/' was aborted.
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module StatsViewer (236)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module FoliageEdit (235)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module LandscapeEditor (234)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (233)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module ActorPickerMode (232)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module GeometryMode (231)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module TextureAlignMode (230)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module BspMode (229)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module HardwareSurvey (228)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (227)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module AutomationWorker (226)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (225)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module PlacementMode (224)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (223)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (222)
+[2016.12.27-09.54.57:833][219]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (221)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (220)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (219)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module Media (218)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (217)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (216)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module CharacterAI (215)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module SequenceRecorder (214)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module AudioCapture (213)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module SmartSnapping (212)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module SessionServices (211)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module ViewportSnapping (210)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module ViewportInteraction (209)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module LogVisualizer (208)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (207)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module IntroTutorials (206)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (205)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (204)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (203)
+[2016.12.27-09.54.57:834][219]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (202)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (201)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (200)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (199)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module InputBindingEditor (198)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module NiagaraEditor (197)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module MergeActors (196)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module SizeMap (195)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module TreeMap (194)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module ReferenceViewer (193)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module LocalizationService (192)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (191)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module HardwareTargeting (190)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (189)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module UndoHistory (188)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module UserFeedback (187)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module XmlParser (186)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module Blutility (185)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (184)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (183)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (182)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module SettingsEditor (181)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module ProjectLauncher (180)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module SessionFrontend (179)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module ProfilerClient (178)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (177)
+[2016.12.27-09.54.58:421][219]LogModuleManager: Shutting down and abandoning module DeviceManager (176)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module AutomationController (175)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module AutomationWindow (174)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module Layers (173)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (172)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module DetailCustomizations (171)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module PackagesDialog (170)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module AnimGraph (169)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module Persona (168)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module Kismet (167)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module GraphEditor (166)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module ClassViewer (165)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module Toolbox (164)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module ModuleUI (163)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module MovieSceneTools (162)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module OutputLog (161)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module GammaUI (160)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module Documentation (159)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module Niagara (158)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (157)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module AnalyticsET (156)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module PortalServices (155)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module PortalRpc (154)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module MessagingRpc (153)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module GameplayDebugger (152)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module AITestSuite (151)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module AIModule (150)
+[2016.12.27-09.54.58:463][219]LogModuleManager: Shutting down and abandoning module ProfilerService (149)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module TaskGraph (148)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module PythonConsole (147)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module SlateRemote (146)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module SteamVRController (145)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module SteamVR (144)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (143)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (142)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module OculusLibrary (141)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module OculusInput (140)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (139)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (138)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module CableComponent (137)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (136)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (134)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module HTML5Networking (133)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (132)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module GeometryCache (131)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module AlembicLibrary (130)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module AlembicImporter (129)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module SuperSearch (128)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (127)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (126)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module PluginBrowser (125)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (124)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module EpicSurvey (123)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module DesktopPlatform (122)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (121)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module UObjectPlugin (120)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (119)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (118)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module SourceControl (117)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module GitSourceControl (116)
+[2016.12.27-09.54.58:539][219]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (115)
+[2016.12.27-09.54.58:540][219]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (114)
+[2016.12.27-09.54.58:540][219]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (113)
+[2016.12.27-09.54.58:540][219]LogModuleManager: Shutting down and abandoning module MeshPaint (112)
+[2016.12.27-09.54.58:540][219]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (111)
+[2016.12.27-09.54.58:540][219]LogModuleManager: Shutting down and abandoning module HotReload (110)
+[2016.12.27-09.54.58:540][219]LogDirectoryWatcher: A directory notification for 'D:/Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Binaries/Win64' was aborted.
+[2016.12.27-09.54.58:540][219]LogModuleManager: Shutting down and abandoning module MainFrame (109)
+[2016.12.27-09.54.58:540][219]LogModuleManager: Shutting down and abandoning module LevelEditor (108)
+[2016.12.27-09.54.58:540][219]LogModuleManager: Shutting down and abandoning module ContentBrowser (107)
+[2016.12.27-09.54.58:541][219]LogModuleManager: Shutting down and abandoning module Paper2DEditor (106)
+[2016.12.27-09.54.58:541][219]LogModuleManager: Shutting down and abandoning module Unreal2DRunner3 (105)
+[2016.12.27-09.54.58:541][219]LogModuleManager: Shutting down and abandoning module UnrealEnginePython (104)
+[2016.12.27-09.54.58:541][219]LogPython: Goodbye Python
+[2016.12.27-09.54.58:648][219]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2016.12.27-09.54.58:749][219]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2016.12.27-09.54.58:849][219]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2016.12.27-09.54.58:851][219]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2016.12.27-09.54.58:851][219]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2016.12.27-09.54.58:851][219]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2016.12.27-09.54.58:851][219]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2016.12.27-09.54.58:851][219]LogModuleManager: Shutting down and abandoning module Core (75)
+[2016.12.27-09.54.58:851][219]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2016.12.27-09.54.58:851][219]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.12.27-09.54.58:851][219]LogDirectoryWatcher: A directory notification for '../../../../../../Users/matvey/Documents/UnrealProjects/Unreal2DRunner/Content/' was aborted.
+[2016.12.27-09.54.58:851][219]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.12.27-09.54.58:851][219]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2016.12.27-09.54.58:976][219]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2016.12.27-09.54.58:976][219]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2016.12.27-09.54.58:976][219]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2016.12.27-09.54.58:976][219]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2016.12.27-09.54.58:976][219]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2016.12.27-09.54.58:976][219]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2016.12.27-09.54.58:976][219]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2016.12.27-09.54.58:976][219]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2016.12.27-09.54.59:053][219]LogDerivedDataCache: Shutdown
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2016.12.27-09.54.59:053][219]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2016.12.27-09.54.59:054][219]LogOnline:Display: Unloading online subsystem: NULL
+[2016.12.27-09.54.59:054][219]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.27-09.54.59:055][219]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.27-09.54.59:057][219]LogExit: Exiting.
+[2016.12.27-09.54.59:058][219]Log file closed, 12/27/16 12:54:59
