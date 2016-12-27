@@ -1,5 +1,7 @@
 # Deep2DRunner
 
+<img src=https://github.com/matvey96ka/Deep2DRunner/blob/master/run.gif>
+
 ## Report
 As a final project for Artificial Intelligence in Videogames course I decided to implement DQN controller for [2DRunner template](http://www.mediafire.com/file/l1cbqsk4eg4to6x/Unreal2DRunner.rar) on Unreal Engine 4. The template 2DRunner is a simple game where main character runs through an infinite 2D world which contains pits and enemies and the player needs to jump in time to avoid collision with those obstacles and survive for as long as he can.  The character was supposed to be controlled by human player via pressing the space key when he wants to jump. 
 
@@ -18,3 +20,7 @@ else:
 
 Finally, I had to train the neural network. I trained it for more than a day on GeForce gtx1070 with 1920 CUDA cores so I was
 fully frustrated when I saw the results. However, the goal was to make a bot that acts better then a random algorithm and my bot definetly managed to beat it. As a proof I drew a plot that shows the score that both random and "clever" algorithms had at each of the first 4000 ticks. The score of my bot grows over time, whereas random algorithms score decreases.
+
+<img src=https://github.com/matvey96ka/Deep2DRunner/blob/master/Proof.PNG>
+
+The only justification of this bad result that pops into my mind is that I chose an improper value for negative reward. Anyway, for me this project and the course itself were a great introduction into reinforcement learning. 
